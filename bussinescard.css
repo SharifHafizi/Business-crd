@@ -1,0 +1,33 @@
+body {
+  margin: 20px;
+}
+img {
+  margin-top: 20px;
+  height: 170px;
+  width: 140px;
+  border-radius: 5px;
+  /* border: 1px dotted blue; */
+}
+.card {
+  /* margin: block;
+  margin-left: auto;
+  margin-right: auto; */
+
+  width: 400px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  /* border: 1px dotted blue; */
+  display: flex;
+  justify-content: space-around;
+  color: whitesmoke;
+  border-bottom: 10px solid #2b2d42;
+  background-color: #d90429;
+  border-radius: 10px;
+  font-family: Verdana;
+  font-style: unset;
+  background-image: url("./background.jpg");
+  background-size: 230px 270px;
+  background-position: 100;
+}
